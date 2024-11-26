@@ -1,4 +1,4 @@
-name: kira
+name: salar
 
 on:
   workflow_dispatch:
